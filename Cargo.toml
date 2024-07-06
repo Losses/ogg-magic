@@ -1,0 +1,15 @@
+[package]
+name = "ogg-magic"
+version = "0.0.0-dev"
+rust-version = "1.73"
+authors = ["LOSSES Don"]
+description = "The ogg processor"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.5.0"
+clap = {version = "4.4.18", features = ["derive"]}
+lazy_static = "1.5.0"
+num-traits = "0.2.19"
+rand = "0.8.5"
+tokio = { version = "1", features = ["rt", "rt-multi-thread", "macros", "signal", "sync", "parking_lot", "process", "io-util", "fs"] }
