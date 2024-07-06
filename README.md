@@ -1,6 +1,6 @@
 # Ogg Magic
 
-**Ogg Magic** is a Rust library designed to faithfully parse and edit metadata in Ogg Vorbis files according to the Vorbis and Ogg specifications. This library is intended for developers who need to debug and manipulate the structure of Ogg Vorbis files, rather than for efficient data reading.
+[**Ogg Magic**](https://ogg-magic.pages.dev/ogg_magic/) is a Rust library designed to faithfully parse and edit metadata in Ogg Vorbis files according to the Vorbis and Ogg specifications. This library is intended for developers who need to debug and manipulate the structure of Ogg Vorbis files, rather than for efficient data reading.
 
 ## Features
 
