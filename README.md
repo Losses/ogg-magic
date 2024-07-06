@@ -20,8 +20,6 @@
 
 Refer to the `examples` directory for more detailed usage examples.
 
-## Examples
-
 The following examples demonstrate how to perform key operations with the Ogg Magic library, such as trimming an Ogg Vorbis file and updating its metadata.
 
 ### Trimming an Ogg Vorbis File
