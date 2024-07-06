@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"ogg_magic":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/beta/core/cmp/trait.PartialOrd.html\" title=\"trait core::cmp::PartialOrd\">PartialOrd</a> for <a class=\"enum\" href=\"ogg_magic/ogg_vorbis_page/enum.VorbisSetupCodebookLookupType.html\" title=\"enum ogg_magic::ogg_vorbis_page::VorbisSetupCodebookLookupType\">VorbisSetupCodebookLookupType</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["collect_ogg_vorbis_file","find_packet_by_type","trim_ogg_vorbis_file","update_ogg_vorbis_comments"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["OggVorbisPacket"],"fn":["read_ogg_vorbis_file"],"struct":["OggParseResult","OggVorbisPageResult"],"type":["OggVorbisPacketsParseResult","OggVorbiseHeaderCommentParseResult","OggVorbiseHeaderIdentificationParseResult","OggVorbiseHeaderSetupParseResult"]};

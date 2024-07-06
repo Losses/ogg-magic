@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"ogg_magic":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/beta/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"ogg_magic/ogg_page/struct.OggPage.html\" title=\"struct ogg_magic::ogg_page::OggPage\">OggPage</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/beta/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"ogg_magic/ogg_vorbis_page/struct.OggVorbisPage.html\" title=\"struct ogg_magic::ogg_vorbis_page::OggVorbisPage\">OggVorbisPage</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
